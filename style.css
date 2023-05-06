@@ -31,13 +31,6 @@ h3 {
 
 /*====================== nav bar =====================*/
 
-*{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    background-color: #23252A;
-}
-
 li, a, button {
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
